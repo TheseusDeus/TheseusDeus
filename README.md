@@ -1,5 +1,9 @@
-### Hi there 👋
-[![Most used languages](https://github-readme-stats.vercel.app/api?username=TheseusDeus)](https://github.com/anuraghazra/github-readme-stats)
+### Hello 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheseusDeus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)]
+<!--[![General stats](https://github-readme-stats.vercel.app/api?username=TheseusDeus)](https://github.com/anuraghazra/github-readme-stats)--!>
+
+
 
 <!--
 **TheseusDeus/TheseusDeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
