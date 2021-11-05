@@ -1,6 +1,9 @@
-### Hello 👋
+### Welcome to my profile 
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheseusDeus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheseusDeus&layout=compact&theme=tokyonight" />
+</a>
 <!--[![General stats](https://github-readme-stats.vercel.app/api?username=TheseusDeus)](https://github.com/anuraghazra/github-readme-stats)--!>
 
 
