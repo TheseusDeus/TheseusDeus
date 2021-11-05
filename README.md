@@ -1,6 +1,6 @@
 ### Hello 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheseusDeus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)]
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheseusDeus&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![General stats](https://github-readme-stats.vercel.app/api?username=TheseusDeus)](https://github.com/anuraghazra/github-readme-stats)--!>
 
 
